@@ -1,5 +1,6 @@
 import React from 'react'
 import logo from '../assets/logo.png'
+import prime from '../assets/prime.jpg'
 import { MagnifyingGlassCircleIcon, MapPinIcon, LanguageIcon, ShoppingCartIcon,ListBulletIcon } from '@heroicons/react/24/solid'
 
 
@@ -9,9 +10,9 @@ const Navbar = () => {
         <>
             <div className="flex bg-black h-14">
                 <ul className='flex'>
-                    <li><a href='https://www.amazon.com/'><img src={logo} alt='logo' className='w-25 h-8 mx-5 my-4' /></a></li>
+                    <li><a href='https://www.amazon.com/'><img src={logo} alt='logo' className='w-25 h-8 mx-4 my-4' /></a></li>
                     <MapPinIcon style={{ color: 'white', width: '1.7rem', marginLeft: '1rem' }} />
-                    <li className='w-90  mx-2 my-3 px-2' ><input style={{ width: '80rem' }} className=' border h-9' placeholder=' Search on amazon'></input></li>
+                    <li className='w-90  mx-2 my-3 px-2' ><input style={{ width: '75rem' }} className=' border h-9' placeholder=' Search Amazon.in'></input></li>
                     <button style={{ backgroundColor: '#edbc32', width: '2.1rem', height: '2.2rem', paddingLeft: '0.3rem', marginTop: '.8rem', borderRadius: '.2rem' }}><MagnifyingGlassCircleIcon style={{ color: 'white', width: '1.5rem' }} /></button>
                     <button style={{ backgroundColor: 'black', width: '2.1rem', height: '2.2rem', paddingLeft: '0.3rem', marginTop: '.8rem', borderRadius: '.2rem',marginLeft:'1rem'}}><LanguageIcon style={{ color: 'white', width: '1.5rem' }} /></button>
                     <button style={{ backgroundColor: 'black', width: '5rem', height: '2.2rem', paddingLeft: '0.3rem', marginTop: '.8rem', borderRadius: '.2rem',marginLeft:'1rem',color:'white'}}><b>Sign In</b></button>
@@ -23,11 +24,13 @@ const Navbar = () => {
             <div className="flex h-10 " style={{backgroundColor:'#212a4a',color:'white'}}>
                 <ul className='flex'>
                 <button style={{ backgroundColor: '#212a4a', width: '3rem', height: '2.2rem', paddingLeft: '0.3rem', marginTop: '.2rem', borderRadius: '.2rem',marginLeft:'2rem' }}><b><ListBulletIcon style={{ color: 'white', width: '1.5rem' }} /></b></button>
-                <li style={{marginLeft:'1rem',marginTop:'0.5rem'}}><a href=''>Today's Deal</a> </li>
-                <li style={{marginLeft:'1rem',marginTop:'0.5rem'}}><a href=''>Coustomer Service</a></li>
-                <li style={{marginLeft:'1rem',marginTop:'0.5rem'}}><a href=''>Registry</a></li>
-                <li style={{marginLeft:'1rem',marginTop:'0.5rem'}}><a href=''>Gift Cards</a></li>
-                <li style={{marginLeft:'1rem',marginTop:'0.5rem'}}><a href=''>Sell</a></li>
+                <li style={{marginLeft:'1rem',marginTop:'0.5rem'}}><a href=''><b>Today's Deal</b></a> </li>
+                <li style={{marginLeft:'1rem',marginTop:'0.5rem'}}><a href=''><b>Coustomer Service</b></a></li>
+                <li style={{marginLeft:'1rem',marginTop:'0.5rem'}}><a href=''><b>Amazon Mini Tv</b></a></li>
+                <li style={{marginLeft:'1rem',marginTop:'0.5rem'}}><a href=''><b>Registry</b></a></li>
+                <li style={{marginLeft:'1rem',marginTop:'0.5rem'}}><a href=''><b>Gift Cards</b></a></li>
+                <li style={{marginLeft:'1rem',marginTop:'0.5rem'}}><a href=''><b>Sell</b></a></li>
+                <li style={{marginLeft:'50rem'}}><a href=''><img src={prime} style={{height:'2rem',marginTop:'0.3rem'}}/></a></li>
                     
                 </ul>
             </div>
