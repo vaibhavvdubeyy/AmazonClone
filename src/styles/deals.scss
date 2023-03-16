@@ -1,0 +1,72 @@
+.hscroll {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    height: 15rem;
+    width: 100%;
+    margin-top: 2rem;
+    overflow-x: scroll;
+    white-space: nowrap;
+    
+    
+    .card {
+      text-align: center;
+      display: inline-block;
+      width:8rem;
+      height:8rem;
+      margin-left: 2rem;
+      margin-top: 2rem;
+      
+      
+    }
+}
+.h1scroll {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+
+
+  .card {
+    text-align: center;
+    display: inline-block;
+    width:8rem;
+    height:8rem;
+    margin-left: 2rem;
+    
+    
+  }
+
+}
+.dropdown {
+    position: relative;
+    display: block;
+    border:1px solid black;
+    border-radius:1rem;
+    width:8rem;
+    text-align: center;
+    float: right;
+    margin-right: 1.5rem;
+    
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .row {
+    display: flex;
+  }
+  
+  .column1  {
+    margin-left: 1rem;
+    width:20rem;
+  }
+  

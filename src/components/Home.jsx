@@ -6,7 +6,7 @@ import first from '../assets/1.png'
 import second from '../assets/2.png'
 import footer from '../assets/footer.png'
 
-import { Button, Card, Col, Row } from 'react-bootstrap'
+
 
 const Home = () => {
     return (
