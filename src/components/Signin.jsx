@@ -24,7 +24,7 @@ const Signin = () => {
                 </Form.Group><br/>
                 <h9 style={{fontSize:'12px',margin:'2px'}}>By signing in, you agree to Amazon's Conditions of Use and Privacy Notice.</h9><br/>
                 
-                <button  type="submit" style={{border:'1px solid black',width:'5rem',height:'2rem',paddingBottom:'1rem',backgroundColor:'yellow',borderRadius:'5px'}}><b>Log In</b></button>
+                <button  type="submit" style={{border:'1px solid black',width:'5rem',height:'2rem',paddingBottom:'1rem',backgroundColor:'#ffd13b',borderRadius:'5px'}}><b>Log In</b></button>
             </form>
         </div>   <br/> 
         <h3  style={{marginLeft:'54rem'}}>Don't have Amazon Account?</h3>

@@ -13,11 +13,11 @@ const Home = () => {
         <>
             <Navbar />
             <div className="head">
-                <div id="demo" class="carousel slide" data-ride="carousel">
+                <div id="demo" className="carousel slide" data-ride="carousel">
 
 
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
+                    <div className="carousel-inner">
+                        <div className="carousel-item active">
                             <img src={sofa} alt="sofa" style={{ width: '100rem', marginLeft: '8rem' }} />
                         </div>
                     </div>

@@ -1,0 +1,39 @@
+
+.cart{
+    background-color: #e3e2e1;
+
+    >.row1{
+        display: flex;
+        margin-top: 3rem;
+
+        >.column1{
+            margin-top: 2rem;
+            margin-left: 5rem;
+        }
+        >.column2{
+            margin-top: 2rem;
+            margin-left: 55rem;
+        }
+    }
+    >.row2{
+        .h1scroll {
+            overflow-x: scroll;
+            overflow-y: hidden;
+            white-space: nowrap;
+            margin-top: 2rem;
+            background-color: white;
+        
+        
+          .card {
+            text-align: center;
+            display: inline-block;
+            width:8rem;
+            height:8rem;
+            margin-left: 2rem;
+            
+            
+          }
+        
+        }
+    }
+}
