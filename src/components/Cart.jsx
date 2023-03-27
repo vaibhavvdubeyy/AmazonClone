@@ -36,7 +36,7 @@ const Cart = () => {
                             </div>
                             <div className="row">
                                 <div className="column">
-                                    <img variant="top" src={p1} style={{ width: '15rem', height: '15rem', margin: '2rem', marginTop: '2rem' }} />
+                                    <img alt="photo"variant="top" src={p1} style={{ width: '15rem', height: '15rem', margin: '2rem', marginTop: '2rem' }} />
                                 </div>
                                 <div className="column">
                                     <div className="row">
@@ -88,24 +88,24 @@ const Cart = () => {
                 <div className="row" >
 
                     <div class="h1scroll"  style={{ backgroundColor:'white'  }}>
-                        <div class="card"><a href=''><img src={card1} /><h2><b>All Deals</b></h2></a></div>
-                        <div class="card"><a href=''><img src={card2} /><h2>Amazon Device</h2></a></div>
-                        <div class="card"><a href=''><img src={card3} /><h2>Computer Accesories</h2></a></div>
-                        <div class="card"><a href=''><img src={card4} /><h2>Electronics</h2></a></div>
-                        <div class="card"><a href=''><img src={card5} /><h2>Beauty</h2></a></div>
-                        <div class="card"><a href=''><img src={card6} /><h2>Toys</h2></a></div>
-                        <div class="card"><a href=''><img src={card7} /><h2>Shoes</h2></a></div>
-                        <div class="card"><a href=''><img src={card8} /><h2>TV</h2></a></div>
-                        <div class="card"><a href=''><img src={card9} /><h2>Gym Equipments</h2></a></div>
-                        <div class="card"><a href=''><img src={card10} /><h2>Gaming</h2></a></div>
-                        <div class="card"><a href=''><img src={card11} /><h2>Cameras</h2></a></div>
-                        <div class="card"><a href=''><img src={card12} /><h2>Mobile Phones</h2></a></div>
-                        <div class="card"><a href=''><img src={card13} /><h2>Grocery</h2></a></div>
-                        <div class="card"><a href=''><img src={card14} /><h2>Office Items</h2></a></div>
-                        <div class="card"><a href=''><img src={card15} /><h2>Jewellery</h2></a></div>
-                        <div class="card"><a href=''><img src={card16} /><h2>Baby</h2></a></div>
-                        <div class="card"><a href=''><img src={card17} /><h2>Personal Care</h2></a></div>
-                        <div class="card"><a href=''><img src={card18} /><h2>Books</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card1} /><h2><b>All Deals</b></h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card2} /><h2>Amazon Device</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card3} /><h2>Computer Accesories</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card4} /><h2>Electronics</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card5} /><h2>Beauty</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card6} /><h2>Toys</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card7} /><h2>Shoes</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card8} /><h2>TV</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card9} /><h2>Gym Equipments</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card10} /><h2>Gaming</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card11} /><h2>Cameras</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card12} /><h2>Mobile Phones</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card13} /><h2>Grocery</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card14} /><h2>Office Items</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card15} /><h2>Jewellery</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card16} /><h2>Baby</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card17} /><h2>Personal Care</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card18} /><h2>Books</h2></a></div>
                     </div><br />
 
                 </div>
@@ -115,24 +115,24 @@ const Cart = () => {
                 <div className="row">
 
                     <div class="h1scroll"  style={{ backgroundColor:'white'  }}>
-                        <div class="card"><a href=''><img src={card1} /><h2><b>All Deals</b></h2></a></div>
-                        <div class="card"><a href=''><img src={card2} /><h2>Amazon Device</h2></a></div>
-                        <div class="card"><a href=''><img src={card3} /><h2>Computer Accesories</h2></a></div>
-                        <div class="card"><a href=''><img src={card4} /><h2>Electronics</h2></a></div>
-                        <div class="card"><a href=''><img src={card5} /><h2>Beauty</h2></a></div>
-                        <div class="card"><a href=''><img src={card6} /><h2>Toys</h2></a></div>
-                        <div class="card"><a href=''><img src={card7} /><h2>Shoes</h2></a></div>
-                        <div class="card"><a href=''><img src={card8} /><h2>TV</h2></a></div>
-                        <div class="card"><a href=''><img src={card9} /><h2>Gym Equipments</h2></a></div>
-                        <div class="card"><a href=''><img src={card10} /><h2>Gaming</h2></a></div>
-                        <div class="card"><a href=''><img src={card11} /><h2>Cameras</h2></a></div>
-                        <div class="card"><a href=''><img src={card12} /><h2>Mobile Phones</h2></a></div>
-                        <div class="card"><a href=''><img src={card13} /><h2>Grocery</h2></a></div>
-                        <div class="card"><a href=''><img src={card14} /><h2>Office Items</h2></a></div>
-                        <div class="card"><a href=''><img src={card15} /><h2>Jewellery</h2></a></div>
-                        <div class="card"><a href=''><img src={card16} /><h2>Baby</h2></a></div>
-                        <div class="card"><a href=''><img src={card17} /><h2>Personal Care</h2></a></div>
-                        <div class="card"><a href=''><img src={card18} /><h2>Books</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card1} /><h2><b>All Deals</b></h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card2} /><h2>Amazon Device</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card3} /><h2>Computer Accesories</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card4} /><h2>Electronics</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card5} /><h2>Beauty</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card6} /><h2>Toys</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card7} /><h2>Shoes</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card8} /><h2>TV</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card9} /><h2>Gym Equipments</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card10} /><h2>Gaming</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card11} /><h2>Cameras</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card12} /><h2>Mobile Phones</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card13} /><h2>Grocery</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card14} /><h2>Office Items</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card15} /><h2>Jewellery</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card16} /><h2>Baby</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card17} /><h2>Personal Care</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card18} /><h2>Books</h2></a></div>
                     </div><br />
 
                 </div>
@@ -142,24 +142,24 @@ const Cart = () => {
                 <div className="row">
 
                     <div class="h1scroll"  style={{ backgroundColor:'white'  }}>
-                        <div class="card"><a href=''><img src={card1} /><h2><b>All Deals</b></h2></a></div>
-                        <div class="card"><a href=''><img src={card2} /><h2>Amazon Device</h2></a></div>
-                        <div class="card"><a href=''><img src={card3} /><h2>Computer Accesories</h2></a></div>
-                        <div class="card"><a href=''><img src={card4} /><h2>Electronics</h2></a></div>
-                        <div class="card"><a href=''><img src={card5} /><h2>Beauty</h2></a></div>
-                        <div class="card"><a href=''><img src={card6} /><h2>Toys</h2></a></div>
-                        <div class="card"><a href=''><img src={card7} /><h2>Shoes</h2></a></div>
-                        <div class="card"><a href=''><img src={card8} /><h2>TV</h2></a></div>
-                        <div class="card"><a href=''><img src={card9} /><h2>Gym Equipments</h2></a></div>
-                        <div class="card"><a href=''><img src={card10} /><h2>Gaming</h2></a></div>
-                        <div class="card"><a href=''><img src={card11} /><h2>Cameras</h2></a></div>
-                        <div class="card"><a href=''><img src={card12} /><h2>Mobile Phones</h2></a></div>
-                        <div class="card"><a href=''><img src={card13} /><h2>Grocery</h2></a></div>
-                        <div class="card"><a href=''><img src={card14} /><h2>Office Items</h2></a></div>
-                        <div class="card"><a href=''><img src={card15} /><h2>Jewellery</h2></a></div>
-                        <div class="card"><a href=''><img src={card16} /><h2>Baby</h2></a></div>
-                        <div class="card"><a href=''><img src={card17} /><h2>Personal Care</h2></a></div>
-                        <div class="card"><a href=''><img src={card18} /><h2>Books</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card1} /><h2><b>All Deals</b></h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card2} /><h2>Amazon Device</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card3} /><h2>Computer Accesories</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card4} /><h2>Electronics</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card5} /><h2>Beauty</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card6} /><h2>Toys</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card7} /><h2>Shoes</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card8} /><h2>TV</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card9} /><h2>Gym Equipments</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card10} /><h2>Gaming</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card11} /><h2>Cameras</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card12} /><h2>Mobile Phones</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card13} /><h2>Grocery</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card14} /><h2>Office Items</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card15} /><h2>Jewellery</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card16} /><h2>Baby</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card17} /><h2>Personal Care</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card18} /><h2>Books</h2></a></div>
                     </div><br />
 
                 </div>
@@ -169,24 +169,24 @@ const Cart = () => {
                 <div className="row">
 
                     <div class="h1scroll"  style={{ backgroundColor:'white'  }}>
-                        <div class="card"><a href=''><img src={card1} /><h2><b>All Deals</b></h2></a></div>
-                        <div class="card"><a href=''><img src={card2} /><h2>Amazon Device</h2></a></div>
-                        <div class="card"><a href=''><img src={card3} /><h2>Computer Accesories</h2></a></div>
-                        <div class="card"><a href=''><img src={card4} /><h2>Electronics</h2></a></div>
-                        <div class="card"><a href=''><img src={card5} /><h2>Beauty</h2></a></div>
-                        <div class="card"><a href=''><img src={card6} /><h2>Toys</h2></a></div>
-                        <div class="card"><a href=''><img src={card7} /><h2>Shoes</h2></a></div>
-                        <div class="card"><a href=''><img src={card8} /><h2>TV</h2></a></div>
-                        <div class="card"><a href=''><img src={card9} /><h2>Gym Equipments</h2></a></div>
-                        <div class="card"><a href=''><img src={card10} /><h2>Gaming</h2></a></div>
-                        <div class="card"><a href=''><img src={card11} /><h2>Cameras</h2></a></div>
-                        <div class="card"><a href=''><img src={card12} /><h2>Mobile Phones</h2></a></div>
-                        <div class="card"><a href=''><img src={card13} /><h2>Grocery</h2></a></div>
-                        <div class="card"><a href=''><img src={card14} /><h2>Office Items</h2></a></div>
-                        <div class="card"><a href=''><img src={card15} /><h2>Jewellery</h2></a></div>
-                        <div class="card"><a href=''><img src={card16} /><h2>Baby</h2></a></div>
-                        <div class="card"><a href=''><img src={card17} /><h2>Personal Care</h2></a></div>
-                        <div class="card"><a href=''><img src={card18} /><h2>Books</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card1} /><h2><b>All Deals</b></h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card2} /><h2>Amazon Device</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card3} /><h2>Computer Accesories</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card4} /><h2>Electronics</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card5} /><h2>Beauty</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card6} /><h2>Toys</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card7} /><h2>Shoes</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card8} /><h2>TV</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card9} /><h2>Gym Equipments</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card10} /><h2>Gaming</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card11} /><h2>Cameras</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card12} /><h2>Mobile Phones</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card13} /><h2>Grocery</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card14} /><h2>Office Items</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card15} /><h2>Jewellery</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card16} /><h2>Baby</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card17} /><h2>Personal Care</h2></a></div>
+                        <div class="card"><a href=''><img alt="photo"src={card18} /><h2>Books</h2></a></div>
                     </div><br />
 
                 </div>
@@ -195,7 +195,7 @@ const Cart = () => {
                     Do you have a promotional code? We'll ask you to enter your claim code when it's time to pay.</h3>
                     </div>
                 <div className="footer">
-                    <img src={footer} alt="footer" />
+                    <img  src={footer} alt="footer" />
                 </div>
             </div>
 
