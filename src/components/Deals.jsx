@@ -125,7 +125,7 @@ const Deals = () => {
                     <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"/>
                     <label for="">Boys Fashion</label><br/>
                     <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"/>
-                    <label for="">Camera & Photo</label><br/>
+                    <label for="">Camera & items</label><br/>
                     <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"/>
                     <label for="">Men's Watches</label><br/>
                     <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"/>
@@ -174,49 +174,49 @@ const Deals = () => {
                 </div>
                 <div className="column" >
                     <Card style={{ width: '25rem',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product1} />
+                        <Card.Img variant="top" alt="items" src={product1} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product2} />
+                        <Card.Img variant="top" alt="items" src={product2} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product3} />
+                        <Card.Img variant="top" alt="items" src={product3} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product4} />
+                        <Card.Img variant="top" alt="items" src={product4} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' ,paddingTop:'3rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product13} />
+                        <Card.Img variant="top" alt="items" src={product13} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' ,paddingTop:'.5rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product14} />
+                        <Card.Img variant="top" alt="items" src={product14} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem',paddingTop:'1rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product15} />
+                        <Card.Img variant="top" alt="items" src={product15} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'9rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product16} />
+                        <Card.Img variant="top" alt="items" src={product16} />
                         <Card.Body>
                             
                         </Card.Body>
@@ -224,49 +224,49 @@ const Deals = () => {
                 </div>
                 <div className="column">
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product5} />
+                        <Card.Img variant="top" alt="items" src={product5} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product6} />
+                        <Card.Img variant="top" alt="items" src={product6} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product7} />
+                        <Card.Img variant="top" alt="items" src={product7} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product8} />
+                        <Card.Img variant="top" alt="items" src={product8} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product9} />
+                        <Card.Img variant="top" alt="items" src={product9} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product10} />
+                        <Card.Img variant="top" alt="items" src={product10} />
                         <Card.Body>
                           
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem',paddingTop:'3rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product11} />
+                        <Card.Img variant="top" alt="items" src={product11} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product12} />
+                        <Card.Img variant="top" alt="items" src={product12} />
                         <Card.Body>
                             
                         </Card.Body>
@@ -274,49 +274,49 @@ const Deals = () => {
                 </div>
                 <div className="column">
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product9} />
+                        <Card.Img variant="top" alt="items" src={product9} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product10} />
+                        <Card.Img variant="top" alt="items" src={product10} />
                         <Card.Body>
                           
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem',paddingTop:'3rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product11} />
+                        <Card.Img variant="top" alt="items" src={product11} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product12} />
+                        <Card.Img variant="top" alt="items" src={product12} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product5} />
+                        <Card.Img variant="top" alt="items" src={product5} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product6} />
+                        <Card.Img variant="top" alt="items" src={product6} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product7} />
+                        <Card.Img variant="top" alt="items" src={product7} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product8} />
+                        <Card.Img variant="top" alt="items" src={product8} />
                         <Card.Body>
                            
                         </Card.Body>
@@ -324,49 +324,49 @@ const Deals = () => {
                 </div>
                 <div className="column">
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' ,paddingTop:'3rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product13} />
+                        <Card.Img variant="top" alt="items" src={product13} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' ,paddingTop:'.5rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product14} />
+                        <Card.Img variant="top" alt="items" src={product14} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem',paddingTop:'1rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product15} />
+                        <Card.Img variant="top" alt="items" src={product15} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'9rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product16} />
+                        <Card.Img variant="top" alt="items" src={product16} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product1} />
+                        <Card.Img variant="top" alt="items" src={product1} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product2} />
+                        <Card.Img variant="top" alt="items" src={product2} />
                         <Card.Body>
                            
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem'}}>
-                        <Card.Img variant="top" alt="photo" src={product3} />
+                        <Card.Img variant="top" alt="items" src={product3} />
                         <Card.Body>
                             
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '25rem',textAlign:'center',border:'1px solid grey',height:'15rem',paddingLeft:'7rem' }}>
-                        <Card.Img variant="top" alt="photo" src={product4} />
+                        <Card.Img variant="top" alt="items" src={product4} />
                         <Card.Body>
                             
                         </Card.Body>
